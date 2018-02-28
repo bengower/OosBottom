@@ -6,3 +6,5 @@ Stores > Configuration > Catalog > Catalog in the section called 'Out of Stock P
 
 Make sure you allow out of stock products to appear in categories here:
 Stores > Configuration > Catalog > Inventory in the section 'Stock Options' set 'Display Out of Stock Products' to yes
+
+Developed using Magento Version 2.2.2 CE. I haven't tested on older versions just yet.
